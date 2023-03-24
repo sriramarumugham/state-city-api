@@ -1,4 +1,4 @@
-# state-city-api (Routes):
+# https://city-state-api.onrender.com (Routes):
 
 /get  {"state":"tamilnadu" } returns the cities in tamiladu
  
